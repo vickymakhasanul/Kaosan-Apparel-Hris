@@ -1,0 +1,6 @@
+{
+  "name": "Absensi & Payroll Perusahaan",
+  "description": "Sistem absensi selfie dan verifikasi GPS, perhitungan gaji otomatis, manajemen cuti, dan dashboard payroll perusahaan.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
